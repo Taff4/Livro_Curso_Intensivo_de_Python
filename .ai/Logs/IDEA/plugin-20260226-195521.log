@@ -1,0 +1,5 @@
+2026-02-26T22:55:21.648Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project Curso Intensivo de Python
+2026-02-26T22:55:21.652Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state ENABLED
+2026-02-26T22:55:21.700Z [y.aiintellij.ui.panels.AIToolWindowLogPanel.<init>] INFO initializing a logs panel
+2026-02-26T22:55:21.849Z [y.aiintellij.ui.panels.AIToolWindowLogPanel.<init>] INFO initializing a logs panel
+2026-02-26T22:55:21.963Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
