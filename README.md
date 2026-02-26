@@ -28,5 +28,5 @@ Este repositório contém meus estudos, exercícios e projetos práticos baseado
    `python nome_do_arquivo.py`
    
 ---
-*Estudo realizado por Rafael (@Taff4)*
-EOF
+*Estudo realizado por Rafael Lacerda
+
