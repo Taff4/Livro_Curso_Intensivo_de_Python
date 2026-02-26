@@ -45,10 +45,4 @@ O projeto está dividido em três pilares principais, seguindo a metodologia do 
 3. Navegue até o arquivo desejado e execute: \`python nome_do_arquivo.py\`
 
 ---
-*Estudo realizado por **Rafael Lacerda** (@Taff4)*
-EOF
-
-# Comandos para subir a mudança
-git add README.md
-git commit -m "docs: detalhando a distribuicao de pastas no readme"
-git push origin main
+*Estudo realizado por **Rafael Lacerda** 
