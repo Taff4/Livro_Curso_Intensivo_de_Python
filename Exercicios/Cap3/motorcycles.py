@@ -10,7 +10,7 @@ motorcycles = ['honda', 'yamaha', 'suzuki']
 motorcycles.append('ducati') # Adiciona ao final sem mexer em quem já está lá
 print(motorcycles)
 
-# --- 3. O MÉTODO insert() (INSERIR EM QUALQUER LUGAR) ---
+# --- 3. O MÉTODO insert() (INSERIR EM QUALQUER LUGAR)
 # Diferente do append, aqui você escolhe a posição.
 # Quem estava lá é empurrado para a direita.
 motorcycles = ['honda', 'yamaha', 'suzuki']
@@ -23,7 +23,7 @@ motorcycles = ['honda', 'yamaha', 'suzuki']
 del motorcycles[0] # Remove quem está na posição 0. Acabou, sumiu!
 print(motorcycles)
 
-# --- 5. O MÉTODO pop() (REMOVER E GUARDAR) ---
+# --- 5. O MÉTODO pop() (REMOVER E GUARDAR)
 # Imagine uma pilha de pratos. O pop() tira o último prato da pilha e te entrega.
 motorcycles = ['honda', 'yamaha', 'suzuki']
 # Aqui tiramos 'suzuki' da lista e guardamos na variável 'popped_motorcycle'
@@ -37,7 +37,7 @@ motorcycles = ['honda', 'yamaha', 'suzuki']
 last_owned = motorcycles.pop() # Tira o último e guarda
 print("A última moto que eu tive foi uma " + last_owned.title() + ".")
 
-# --- 7. O MÉTODO remove() (REMOVER POR VALOR/NOME) ---
+# --- 7. O MÉTODO remove() (REMOVER POR VALOR/NOME)
 # Use quando você não sabe a posição (o índice), mas sabe o nome do que quer tirar.
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
 too_expensive = 'ducati' # Guardamos o nome do que queremos tirar
