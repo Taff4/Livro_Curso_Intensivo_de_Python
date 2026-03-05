@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_name = 'Dashboard_Pro_TI.xlsx'
+file_name = '../../Exercicios/Cap2/Dashboard_Pro_TI.xlsx'
 writer = pd.ExcelWriter(file_name, engine='xlsxwriter')
 workbook = writer.book
 worksheet = workbook.add_worksheet('Dashboard')
